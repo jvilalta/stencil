@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "stencil.cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--data "
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
